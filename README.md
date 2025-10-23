@@ -1,4 +1,4 @@
-# Supporting Services: How We Operate
+# IT Team: How We Operate
 
 |                    |                 |
 | ------------------ | --------------- |
